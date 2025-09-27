@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1001,
+    "title": "Login Issues - Can't Access ",
+    "description": "Customer is unable to log in after multiple password reset attempts.",
+    "customer": "John Smith",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "2024-01-15"
+  },
+  {
+    "id": 1002,
+    "title": "Payment Gateway Timeout",
+    "description": "Customer reports that the payment process times out at checkout.",
+    "customer": "Emily Davis",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "2024-01-16"
+  },
+  {
+    "id": 1003,
+    "title": "Unable to Download Invoice",
+    "description": "Customer cannot download their January invoice from billing section.",
+    "customer": "Michael Brown",
+    "priority": "MEDIUM PRIORITY",
+    "status": "Open",
+    "createdAt": "2024-01-17"
+  },
+  {
+    "id": 1004,
+    "title": "Email Notifications Not Received",
+    "description": "Customer does not receive any order confirmation or reset emails.",
+    "customer": "Sophia Lee",
+    "priority": "MEDIUM PRIORITY",
+    "status": "Open",
+    "createdAt": "2024-01-18"
+  },
+  {
+    "id": 1005,
+    "title": "App Crash on Launch",
+    "description": "Mobile app crashes immediately on startup for Android 13 users.",
+    "customer": "David Wilson",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "2024-01-19"
+  },
+  {
+    "id": 1006,
+    "title": "Slow Dashboard Loading",
+    "description": "Dashboard takes more than 30 seconds to load after login.",
+    "customer": "Olivia Johnson",
+    "priority": "LOW PRIORITY",
+    "status": "Open",
+    "createdAt": "2024-01-20"
+  },
+  {
+    "id": 1007,
+    "title": "Two-Factor Authentication Issue",
+    "description": "Customer is not receiving 2FA codes on their registered phone.",
+    "customer": "James Anderson",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "2024-01-21"
+  },
+  {
+    "id": 1008,
+    "title": "Search Function Not Working",
+    "description": "Search bar does not return any results even for valid queries.",
+    "customer": "Emma Martinez",
+    "priority": "MEDIUM PRIORITY",
+    "status": "Open",
+    "createdAt": "2024-01-22"
+  },
+  {
+    "id": 1009,
+    "title": "Subscription Auto-Renewal",
+    "description": "Customer unable to enable auto-renewal toggle for subscription.",
+    "customer": "Liam Thomas",
+    "priority": "MEDIUM PRIORITY",
+    "status": "Open",
+    "createdAt": "2024-01-23"
+  },
+  {
+    "id": 1010,
+    "title": "Report Export Failure",
+    "description": "Exported reports generate corrupted files when opened in Excel.",
+    "customer": "Charlotte White",
+    "priority": "LOW PRIORITY",
+    "status": "Open",
+    "createdAt": "2024-01-24"
+  },
+  {
+    "id": 1011,
+    "title": "Profile Picture Upload Error",
+    "description": "Uploading profile images always results in an error message.",
+    "customer": "Benjamin Harris",
+    "priority": "LOW PRIORITY",
+    "status": "Open",
+    "createdAt": "2024-01-25"
+  },
+  {
+    "id": 1012,
+    "title": "Password Reset Link Expired",
+    "description": "Reset links expire within 2 minutes, causing login issues.",
+    "customer": "Amelia Walker",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "2024-01-26"
+  },
+  {
+    "id": 1013,
+    "title": "Mobile Notifications Delayed",
+    "description": "Push notifications are delayed by more than 15 minutes.",
+    "customer": "Lucas Hall",
+    "priority": "MEDIUM PRIORITY",
+    "status": "Open",
+    "createdAt": "2024-01-27"
+  },
+  {
+    "id": 1014,
+    "title": "Order History Not Displayed",
+    "description": "Customer order history section is empty despite multiple orders.",
+    "customer": "Mia Clark",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "2024-01-28"
+  },
+  {
+    "id": 1015,
+    "title": "Live Chat Not Connecting",
+    "description": "Customer unable to connect to agents through live chat option.",
+    "customer": "Ethan Young",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "2024-01-29"
+  }
+]
